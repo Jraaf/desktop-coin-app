@@ -1,0 +1,11 @@
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\bin\Debug\net8.0\CurrencyApp.BLL.deps.json
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\bin\Debug\net8.0\CurrencyApp.BLL.dll
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\bin\Debug\net8.0\CurrencyApp.BLL.pdb
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\CurrencyApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\CurrencyApp.BLL.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\CurrencyApp.BLL.AssemblyInfo.cs
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\CurrencyApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\CurrencyApp.BLL.dll
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\refint\CurrencyApp.BLL.dll
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\CurrencyApp.BLL.pdb
+C:\Users\Acer\Desktop\projects\desktop-currency-app\CurrencyApp\CurrencyApp.BLL\obj\Debug\net8.0\ref\CurrencyApp.BLL.dll
